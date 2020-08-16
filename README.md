@@ -1,2 +1,1 @@
-#globalmatics_crm
-# DEVCOR_LEARN_SecondPage
+#DEVCOR_LEARN
